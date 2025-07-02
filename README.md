@@ -284,4 +284,4 @@ else:
 
     - Azure Custom Translator: https://learn.microsoft.com/pt-br/azure/cognitive-services/translator/custom-translator/overview
 
-# Este guia oferece um ponto de partida. A implementação real dependerá dos seus requisitos específicos. Boa sorte!
+- Este guia oferece um ponto de partida. A implementação real dependerá dos seus requisitos específicos. Boa sorte!
